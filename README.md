@@ -91,6 +91,3 @@ uvicorn server:app --reload
 
 对话记录和token使用统计存储在SQLite数据库中，可通过`database.py`中的`ConversationDB`类进行管理。
 
-## 许可证
-
-MIT Licence
